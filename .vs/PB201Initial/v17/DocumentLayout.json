@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:dtos\\studentdtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:dtos\\studentdtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:dtos\\studentdtos\\studentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\configurations\\groupcofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:configurations\\groupcofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\dtos\\groupdtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:dtos\\groupdtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\pb201initial.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:pb201initial.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\pb201initial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:pb201initial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|c:\\users\\fa507xv\\source\\repos\\pb201initial\\migrations\\20240911194448_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58DD47E-48B3-42BD-9156-0D5C8736CCDC}|PB201Initial.csproj|solutionrelative:migrations\\20240911194448_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentDtos\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\StudentDtos\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:28:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentDtos\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentCreateDto.cs",
+              "RelativeToolTip": "DTOs\\StudentDtos\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:17:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2sAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:57:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentGetDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\StudentDtos\\StudentGetDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\StudentDtos\\StudentGetDto.cs",
+              "RelativeToolTip": "DTOs\\StudentDtos\\StudentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:42:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\GroupDtos\\GroupGetDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\GroupDtos\\GroupGetDto.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DTOs\\GroupDtos\\GroupGetDto.cs",
+              "RelativeToolTip": "DTOs\\GroupDtos\\GroupGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:39:13.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:44:25.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Configurations\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:10:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupCofiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Configurations\\GroupCofiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\GroupCofiguration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Configurations\\GroupCofiguration.cs",
+              "RelativeToolTip": "Configurations\\GroupCofiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:03:27.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:29:09.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:54:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:05:19.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PB201Initial.http",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\PB201Initial.http",
+              "RelativeDocumentMoniker": "PB201Initial.http",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\PB201Initial.http",
+              "RelativeToolTip": "PB201Initial.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-11T19:21:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Entities\\Group.cs",
+              "RelativeToolTip": "Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:56:40.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:28:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240911194448_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Migrations\\20240911194448_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240911194448_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Migrations\\20240911194448_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240911194448_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:44:48.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PB201Initial",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\PB201Initial.csproj",
+              "RelativeDocumentMoniker": "PB201Initial.csproj",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\PB201Initial.csproj",
+              "RelativeToolTip": "PB201Initial.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T06:27:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:27:06.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201Initial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:21:37.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

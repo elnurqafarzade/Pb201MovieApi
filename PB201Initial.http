@@ -1,0 +1,6 @@
+@PB201Initial_HostAddress = http://localhost:5276
+
+GET {{PB201Initial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

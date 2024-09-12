@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "PB201Initial.Controllers.ValuesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Values",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PB201Initial.Controllers.ValuesController",
+    "Method": "Create",
+    "RelativePath": "api/Values",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "PB201Initial.Entities.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PB201Initial.Controllers.ValuesController",
+    "Method": "GetById",
+    "RelativePath": "api/Values/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
